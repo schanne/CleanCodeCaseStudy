@@ -84,7 +84,7 @@
     <dependency>
       <groupId>de.bechte.junit</groupId>
       <artifactId>junit-hierarchicalcontextrunner</artifactId>
-      <version>4.11.3</version>
+      <version>4.12.2</version>
     </dependency>
     <dependency>
       <groupId>org.clojure</groupId>
