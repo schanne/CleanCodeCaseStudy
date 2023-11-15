@@ -79,7 +79,7 @@
     <dependency>
       <groupId>org.fitnesse</groupId>
       <artifactId>fitnesse</artifactId>
-      <version>20140630</version>
+      <version>20190119</version>
     </dependency>
     <dependency>
       <groupId>de.bechte.junit</groupId>
